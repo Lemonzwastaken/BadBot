@@ -4,14 +4,14 @@
 A fun and chaotic Unreal Engine 5 game where you interact with bad AI drones and kill them to get points.
 
 
-## 🛠️ Built With
+##  Built With
 
 * Unreal Engine 5
 * Blueprints (100%)
 * UE Starter / Custom Assets
 
 
-## ▶️ How to Run
+## How to Run
 
 1. Extract the ZIP file
 2. Navigate to the `Windows` build folder
@@ -60,7 +60,7 @@ A fun and chaotic Unreal Engine 5 game where you interact with bad AI drones and
 
 
 
-## 👤 Author
+##  Author
 
 **Aaradhy**
 Built as a learning project + game prototype using Unreal Engine 5
@@ -86,6 +86,10 @@ Built as a learning project + game prototype using Unreal Engine 5
 * Mixxit
 (I used the above people/studio assets in the projects)
 ---
+
+## AI USE
+I used AI to understand concepts in Unreal Engine and their interconnections. I wrote all the code; I used AI to understand how to connect different systems.
+
 
 ## 📜 License
 
