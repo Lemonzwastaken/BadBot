@@ -4,3 +4,7 @@ Intermediate/
 Saved/
 .vs/
 *.log
+echo "Content/Maps/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore Content/Maps"
+git push origin main
