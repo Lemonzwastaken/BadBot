@@ -3,51 +3,23 @@
 
 A fun and chaotic Unreal Engine 5 game where you interact with bad AI drones and kill them to get points.
 
+Built this to learn Unreal Engine 5. ended up being a pretty fun game so i packaged it up.
+Learnt a ton of stuff through this project.
 
-##  Built With
-
-* Unreal Engine 5
-* Blueprints (100%)
-* UE Starter / Custom Assets
+It doesn't have any maps and stuff on GitHub, but it does have the important blueprints you can mess around and make your own stuff
 
 
-## How to Run
-
-1. Extract the ZIP file
-2. Navigate to the `Windows` build folder
-3. Run:
-
-   ```
-   BadBot.exe
-   ```
-4. Click **Start** in menu
-
----
-
-## ⚠️ Known Issues / Notes
-
-* Make sure all maps are included in:
-
-  ```
-  Project Settings → Packaging → List of maps
-  ```
-* Avoid using assets from:
-
-  ```
-  /Engine/Editor/*
-  ```
-
-  (These break packaged builds)
-
----
-
-##  What I Learned
-
-* Blueprint game architecture (UI + GameMode separation)
-* Unreal packaging & cooking system
-* Handling level transitions properly
-* Debugging “works in editor but not in build” issues
-
+## what I learned
+ 
+- blueprint architecture (keeping UI separate from game logic)
+- how packaging/cooking actually works
+- level transitions
+- why things break in builds but not in the editor (usually a missing asset)
+- Learnt how to load levels in the current level(Level streaming)
+- BPIs that clean up your code and make it one-sided (NOTE: The code is still kinda messed up so have fun :3)
+- Level Blueprints
+- Widget Blueprints
+- Sound systems in Unreal Engine
 ---
 
 ## Screenshots
@@ -58,14 +30,6 @@ A fun and chaotic Unreal Engine 5 game where you interact with bad AI drones and
 <img width="863" height="479" alt="{EEB04644-3929-4BAC-B1BB-3F8B7EA3B91B}" src="https://github.com/user-attachments/assets/cb79317f-7b13-4c42-943a-b3a24a34fd14" />
 
 
-
-
-##  Author
-
-**Aaradhy**
-Built as a learning project + game prototype using Unreal Engine 5
-
----
 
 ## ⭐ Acknowledgements
 
@@ -85,12 +49,13 @@ Built as a learning project + game prototype using Unreal Engine 5
 * Pixabay
 * Mixxit
 (I used the above people/studio assets in the projects)
+
+
+used AI to understand UE5 concepts, wrote all the blueprints myself
+ 
+free to use, just don't sell it
+
 ---
 
-## AI USE
-I used AI to understand concepts in Unreal Engine and their interconnections. I wrote all the code; I used AI to understand how to connect different systems.
 
-
-## 📜 License
-
-This project is for educational purposes. Feel free to explore and modify.
+made by Aaradhy for fun
