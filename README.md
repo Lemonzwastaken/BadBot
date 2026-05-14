@@ -52,8 +52,7 @@ It doesn't have any maps and stuff on GitHub, but it does have the important blu
 
 
 used AI to understand UE5 concepts, wrote all the blueprints myself
- 
-free to use, just don't sell it
+Have fun messing around with the code
 
 ---
 
