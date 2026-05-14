@@ -8,9 +8,9 @@ Learnt a ton of stuff through this project.
 
 It doesn't have any maps and stuff on GitHub, but it does have the important blueprints you can mess around and make your own stuff
 
+---
+# what I learned
 
-## what I learned
- 
 - blueprint architecture (keeping UI separate from game logic)
 - how packaging/cooking actually works
 - level transitions
@@ -22,7 +22,8 @@ It doesn't have any maps and stuff on GitHub, but it does have the important blu
 - Sound systems in Unreal Engine
 ---
 
-## Screenshots
+
+# Screenshots
 
 <img width="1600" height="722" alt="{3C33A0A7-DDDA-4716-AE90-EB21415CB5BD}" src="https://github.com/user-attachments/assets/32aa2fbb-dd88-4d64-a3c8-a6329e793eca" />
 <img width="1346" height="490" alt="{A4813249-ABFB-4D2C-AFCD-4CC29B05D3CF}" src="https://github.com/user-attachments/assets/13df1cb2-a3f8-454c-9545-fe1e7baa8ce8" />
